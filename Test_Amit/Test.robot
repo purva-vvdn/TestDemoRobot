@@ -3,8 +3,8 @@
 Library        Collections
 
 *** Variables ***
-@{listData}        Radha    Rani    Ka    Naam    Japo
-&{dicData}         Name=Radha    Designation=Rani
+@{listData}        Radha    Rani   
+&{dicData}         firstName=Radha    lastDesignation=Rani
 
 *** Test Cases ***
 Tc_001
